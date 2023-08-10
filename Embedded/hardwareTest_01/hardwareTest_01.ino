@@ -8,7 +8,7 @@
 #define DHTPIN 32     // DHT pin
 #define DHTTYPE DHT11      //DHT type
 
-DHT dht(DHTPIN, DHTTYPE);   // defined dht obejct
+DHT dht(DHTPIN, DHTTYPE);   // defined dht object
 
 void setup() {
   pinMode(led_1, OUTPUT);
