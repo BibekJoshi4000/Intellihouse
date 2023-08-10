@@ -38,7 +38,8 @@ We welcome contributions from the community! If you want to contribute to Intell
 Intellihouse was made possible thanks to the contributions of the following individuals and resources:
 
 - Bibek Joshi 
-- Ritik Raj</br>
+- Ritik Raj
+- Asmit Kumar</br>
 We are still counting to increase the no. of individual
 
 
